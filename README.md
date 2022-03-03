@@ -1,0 +1,2 @@
+# Bitcoin_stock_predicition
+Timeseries forecast on Bitcoin stock price with ARIMA, Prophet and LSTM Recurrent Neural Network.
